@@ -1,6 +1,6 @@
 ![banner](https://i0.pickpik.com/photos/836/993/134/code-coding-web-development-preview.jpg)
 ### Hey, I'm Fabio!👋
-[![fabioselau077](https://img.shields.io/github/followers/fabioselau077?label=Seguir&style=social)](https://github.com/fabioselau077)   
+[![fabioselau077](https://img.shields.io/github/followers/fabioselau077?label=Follow&style=social)](https://github.com/fabioselau077)   
 [![fabioselau077](https://img.shields.io/website?down_color=red&down_message=offline&style=social&up_message=getInfluencer.Me&url=https%3A%2F%2Fgetinfluencer.me)](https://getinfluencer.me)   
 [![fabioselau077](https://img.shields.io/uptimerobot/status/m785869052-3741287d1b38d9ad91941f92?style=social)](https://getinfluencer.me)   
 [![fabioselau077](https://img.shields.io/badge/Working-bitis.com.br-blue)](https://bitis.com.br)   
