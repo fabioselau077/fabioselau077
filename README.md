@@ -14,4 +14,4 @@
 
 
 #### Interests 
-JavaScript | PHP | Node | Vue | Firebase | PostgreSQL
+JavaScript | PHP | Node | Vue | Firebase | Flutter
