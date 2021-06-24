@@ -1,13 +1,11 @@
+---
 <!-- SOBRE -->
-### Hey <img src="Oi.gif" width="30px">
+### <img src="Oi.gif" width="20px"> About
+Hey, I am 23 years old, software engineer and passionate about everything that involves startup and technology.
 
----  
-
-23 years old, software engineer and passionate about everything that involves startup and technology.
 Full stack web programmer with Vue, Laravel, Node.js and Firebase.
 Mobile programmer with Flutter. 
 
----
 
 <!-- STACKS -->
 ### 💻 Stacks
@@ -22,7 +20,7 @@ Mobile programmer with Flutter.
 ![image](https://img.shields.io/badge/Google_Cloud-0078D4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <!-- Estatísticas -->
-### 🚀 Statistics
+### 📈 Statistics
 <center>
 <table>
     <tr>
@@ -32,14 +30,16 @@ Mobile programmer with Flutter.
 </table>
 </center>  
 
-
-<!-- CONTATO E OUTROS -->
-### 👇 Contact
-[![fabioselau077](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioselau/)
-[![fabioselau077](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabio_selau1)
+<!-- Projetos -->
+### 🚀 Projects
 [![fabioselau077](https://img.shields.io/badge/Influencer.Me-0077B5?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=me.getinfluencer.app)
 [![fabioselau077](https://img.shields.io/badge/Wocify-0077B5?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=br.com.wocify.app)
 [![fabioselau077](https://img.shields.io/badge/Wocify-0077B5?style=for-the-badge&logo=bitcoin&logoColor=white)](https://app.wocify.com.br/#/fabioselau)
+
+<!-- CONTATO E OUTROS -->
+### 📱 Contact
+[![fabioselau077](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioselau/)
+[![fabioselau077](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabio_selau1)
 
 <!-- VIEWS -->
 ![](https://komarev.com/ghpvc/?username=fabioselau077&color=0077B5&style=flat)
