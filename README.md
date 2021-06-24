@@ -26,8 +26,8 @@ Mobile programmer with Flutter.
 <center>
 <table>
     <tr>
-        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioselau077&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=fabioselau077&theme=buefy"/></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioselau077&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=fabioselau077&theme=buefy"/></td>
     </tr>   
 </table>
 </center>  
