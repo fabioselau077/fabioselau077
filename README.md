@@ -22,7 +22,7 @@ Mobile programmer with Flutter.
 ![image](https://img.shields.io/badge/Google_Cloud-0078D4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <!-- Estatísticas -->
-### 📧 Statistics
+### 🚀 Statistics
 <center>
 <table>
     <tr>
@@ -34,11 +34,12 @@ Mobile programmer with Flutter.
 
 
 <!-- CONTATO E OUTROS -->
-### 📧 Contact
+### 👇 Contact
 [![fabioselau077](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioselau/)
 [![fabioselau077](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabio_selau1)
-[![fabioselau077](https://img.shields.io/badge/Android-0077B5?style=for-the-badge&logo=android&logoColor=white)](https://getinfluencer.me)  
-[![fabioselau077](https://img.shields.io/badge/Bitcoin-0077B5?style=for-the-badge&logo=bitcoin&logoColor=white)](https://app.wocify.com.br/#/fabioselau)
+[![fabioselau077](https://img.shields.io/badge/Influencer.Me-0077B5?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=me.getinfluencer.app)
+[![fabioselau077](https://img.shields.io/badge/Wocify-0077B5?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=br.com.wocify.app)
+[![fabioselau077](https://img.shields.io/badge/Wocify-0077B5?style=for-the-badge&logo=bitcoin&logoColor=white)](https://app.wocify.com.br/#/fabioselau)
 
 <!-- VIEWS -->
 ![](https://komarev.com/ghpvc/?username=fabioselau077&color=0077B5&style=flat)
