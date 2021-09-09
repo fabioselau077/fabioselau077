@@ -13,11 +13,13 @@ Mobile programmer with Flutter.
 ![image](https://img.shields.io/badge/PHP-563D7C?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/Laravel-563D7C?style=for-the-badge&logo=laravel&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![image](https://img.shields.io/badge/Vue.js-0078D4?style=for-the-badge&logo=vue.js&logoColor=white)
 ![image](https://img.shields.io/badge/Flutter-007ACC?style=for-the-badge&logo=flutter&logoColor=white)
 ![image](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/Amazon_AWS-316192?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![image](https://img.shields.io/badge/Google_Cloud-0078D4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![image](https://img.shields.io/badge/Stripe-0078D4?style=for-the-badge&logo=stripe&logoColor=white)
 
 <!-- Estatísticas -->
 ### 📈 Statistics
