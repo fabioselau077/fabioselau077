@@ -34,10 +34,12 @@ Mobile programmer with Flutter.
 ### 🚀 Projects
 [![fabioselau077](https://img.shields.io/badge/Influencer.Me-0077B5?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=me.getinfluencer.app)
 [![fabioselau077](https://img.shields.io/badge/Wocify-0077B5?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=br.com.wocify.app)
+[![fabioselau077](https://img.shields.io/badge/SinaisCryptoBrasil-0077B5?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.sinaiscryptobrasil.app)
 [![fabioselau077](https://img.shields.io/badge/Wocify-0077B5?style=for-the-badge&logo=bitcoin&logoColor=white)](https://app.wocify.com.br/#/fabioselau)
 
 [![fabioselau077](https://img.shields.io/badge/Influencer.Me-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://getinfluencer.me)
 [![fabioselau077](https://img.shields.io/badge/Wocify-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wocify.com.br)
+[![fabioselau077](https://img.shields.io/badge/SinaisCryptoBrasil-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sinaiscryptobrasil.com)
 
 <!-- CONTATO E OUTROS -->
 ### 📱 Contact
